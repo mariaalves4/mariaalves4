@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**mariaalves4/mariaalves4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Maria-Alves
 
-Here are some ideas to get you started:
+Boas Vindas ao meu perfil 💙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Maria Eduarda
+estou cursando o ensino medio 📚.
+
+estou estudando sobre a programação:
+ <div style="dsiplay: inline_block"><br/>
+    <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</div><br/> 
+
+obrigada pela visita 🎀.
+
+<img src="https://media1.tenor.com/m/VXKFzyXFJRcAAAAC/sanrio-my.gif" alt="a pink and white bunny with a flower on its head is jumping in the air in a field of flowers ."/>
